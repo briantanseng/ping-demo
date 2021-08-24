@@ -1,0 +1,14 @@
+{
+  "name": "ping-demo",
+  "version": "1.0.0",
+  "description": "Demo app that sends ICMP messages to a server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Tan Seng",
+  "license": "MIT",
+  "dependencies": {
+    "ping": "^0.4.1"
+  }
+}
