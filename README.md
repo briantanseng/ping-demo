@@ -8,7 +8,7 @@ $ export HOSTS=8.8.8.8,8.8.8.0
 $ ./run.sh
 ```
 
-# Sample Run
+## Sample Run
 ```
 $ ./run.sh
 
