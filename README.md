@@ -9,6 +9,9 @@ $ ./run.sh
 ```
 
 ## Sample Run
+Ping two hosts:
+* 8.8.8.8 (Google DNS server)
+* 8.8.8.0 (Invalid IP address)
 ```
 $ ./run.sh
 
